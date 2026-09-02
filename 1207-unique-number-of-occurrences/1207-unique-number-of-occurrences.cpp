@@ -8,7 +8,7 @@ public:
 
     unordered_set<int> seen;
 
-    // Check whether frequencies are unique
+   
     for (auto pair : freq) {
 
         int frequency = pair.second;
