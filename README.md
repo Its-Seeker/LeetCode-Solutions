@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Its-Seeker/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Its-Seeker/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Its-Seeker/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [3925-concatenate-array-with-reverse](https://github.com/Its-Seeker/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Its-Seeker/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Its-Seeker/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Its-Seeker/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Its-Seeker/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
